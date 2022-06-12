@@ -15,3 +15,5 @@ elif idade >= 18:
     print(f"{nome}, você pode votar e dirigir")
 else:
     print(f"{nome}, você não pode votar e nem pode dirigir")
+
+print("teste")
